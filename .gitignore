@@ -1,0 +1,14 @@
+# Große Originalfotos und ungenutzte Bilder
+_originale/
+
+# Interne Notizen und Vorschau
+Analyse-bestehende-Website.md
+vorschau-startseite.png
+
+# Lokale Werkzeuge
+.claude/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
